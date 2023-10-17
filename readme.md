@@ -2,6 +2,7 @@
 ![Static Badge](https://img.shields.io/badge/javascript-blue) 
 ![Static Badge](https://img.shields.io/badge/html-orange)
 ![Static Badge](https://img.shields.io/badge/teams_platform-purple)
+![Static Badge](https://img.shields.io/badge/express-black)
 
 A simple JS HTML app to demosntrate the use of http-only cookies.
 
