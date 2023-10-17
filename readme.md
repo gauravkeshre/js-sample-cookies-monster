@@ -20,3 +20,8 @@ This will run local server, run ngrok and create a zip file for side loading int
 1. Clone the repo
 2. Run `npm install`
 3. Run `npm run go`
+
+
+## Screeshot
+<img width="823" alt="Screenshot 2023-10-17 at 7 57 41 PM" src="https://github.com/gauravkeshre/js-sample-cookies-monster/assets/1673315/94e63cab-13f1-456e-8f64-21519ffc9d05">
+
