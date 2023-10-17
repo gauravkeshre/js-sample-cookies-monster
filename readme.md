@@ -1,4 +1,7 @@
 # Cookie Monster
+![Static Badge](https://img.shields.io/badge/javascript-blue) 
+![Static Badge](https://img.shields.io/badge/html-orange)
+![Static Badge](https://img.shields.io/badge/teams_platform-purple)
 
 A simple JS HTML app to demosntrate the use of http-only cookies.
 
