@@ -7,7 +7,7 @@ const port  = process.env.PORT || 3000;
 let url = null;
 
 nodemon ({
-    script: '../server/server.js',
+    script: 'server/server.js',
     ext: 'js'
 }).on('start', async () => {
     console.log('app.js just started')
